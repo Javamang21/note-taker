@@ -8,7 +8,7 @@ We had to refractor the code and connect the front end to the back end using exp
 - Click on the 'Get Started' 
 - From there you can create your title and notes on the right side of the page.
 - After that click on the 'Save' button on the top right-hand corner to create a tab.
-- To delete notes just click the trash bin on the left hand-side of each creted note.
+- To delete notes just click the trash bin on the left hand-side of each created note.
 
 ## Deployed Page
 https://morning-tor-27869.herokuapp.com
